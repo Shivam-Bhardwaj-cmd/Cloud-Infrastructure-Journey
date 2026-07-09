@@ -1,0 +1,6 @@
+app.log
+error.txt
+errors.txt
+linux/
+output.txt
+README.md
