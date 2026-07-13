@@ -1,0 +1,29 @@
+Linux System Health Report
+Generated: Mon, Jul 13, 2026  6:07:42 PM
+==========================================
+HOST INFORMATION
+User: DELL
+Kernel: 3.6.9-b4195d69.x86_64
+OS: Msys
+==========================================
+CPU INFORMATION
+CPU Cores: 24
+==========================================
+DISK USAGE
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  474G  149G  326G  32% /
+D:                    474G   25G  450G   6% /d
+==========================================
+MEMORY USAGE
+Memory command not available in this environment
+==========================================
+==========================================
+RUNNING PROCESSES
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     2458    1438    2458      30112  cons0     197609 18:07:42 /usr/bin/bash
+     2466    2458    2458      14320  cons0     197609 18:07:42 /usr/bin/head
+     1438       1    1438      19556  cons0     197609 09:48:19 /usr/bin/bash
+     2465    2458    2458      35416  cons0     197609 18:07:42 /usr/bin/ps
+==========================================
+CURRENT DIRECTORY: /c/Users/DELL/OneDrive/Desktop/Cloud-Infrastructure-Journey/linux/projects/system-health-check
+==========================================
