@@ -6,4 +6,7 @@ echo "All arguments: $@"
 for arg in "$*"
 do echo "$arg"
 done
-
+echo "script name: $0"
+echo "First argument: $1"
+echo "Third argument: $3"
+echo "Current Process ID: $$"
