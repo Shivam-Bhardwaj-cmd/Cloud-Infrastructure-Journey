@@ -83,3 +83,9 @@ reports/health_report.txt
 
 ---
 
+## How To Run
+
+Navigate to project directory:
+
+```bash
+cd linux/projects/system-health-check

@@ -1,5 +1,5 @@
 Linux System Health Report
-Generated: Mon, Jul 13, 2026  6:07:42 PM
+Generated: Tue, Jul 14, 2026  2:39:55 PM
 ==========================================
 HOST INFORMATION
 User: DELL
@@ -11,19 +11,19 @@ CPU Cores: 24
 ==========================================
 DISK USAGE
 Filesystem            Size  Used Avail Use% Mounted on
-C:/Program Files/Git  474G  149G  326G  32% /
+C:/Program Files/Git  474G  144G  331G  31% /
 D:                    474G   25G  450G   6% /d
+Disk Check Completed Successfully
 ==========================================
 MEMORY USAGE
 Memory command not available in this environment
 ==========================================
-==========================================
 RUNNING PROCESSES
       PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
-     2458    1438    2458      30112  cons0     197609 18:07:42 /usr/bin/bash
-     2466    2458    2458      14320  cons0     197609 18:07:42 /usr/bin/head
-     1438       1    1438      19556  cons0     197609 09:48:19 /usr/bin/bash
-     2465    2458    2458      35416  cons0     197609 18:07:42 /usr/bin/ps
+      475       1     475      17624  cons0     197609 14:13:28 /usr/bin/bash
+      607     600     600      29204  cons0     197609 14:39:55 /usr/bin/ps
+      608     600     600       4136  cons0     197609 14:39:55 /usr/bin/bash
+      600     475     600      33600  cons0     197609 14:39:55 /usr/bin/bash
 ==========================================
 CURRENT DIRECTORY: /c/Users/DELL/OneDrive/Desktop/Cloud-Infrastructure-Journey/linux/projects/system-health-check
 ==========================================
